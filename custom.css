@@ -1,0 +1,11 @@
+html, body {
+	background-image: url(woman-coding.jpg);
+	background-size: 100%;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+p.lead {
+	font-size: 1.35rem;
+}
+footer, p {
+	color: #333;
+}
