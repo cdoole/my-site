@@ -3,9 +3,16 @@ html, body {
 	background-size: 100%;
 	font-family: Calibri, Arial, Helvetica, sans-serif;
 }
+.cover {
+	color: #fff;
+}
 p.lead {
 	font-size: 1.35rem;
 }
-footer, p {
-	color: #333;
+footer p {
+	color: #fff;
+}
+span {
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.3);
 }
